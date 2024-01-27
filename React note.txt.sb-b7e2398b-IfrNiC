@@ -1,0 +1,12 @@
+Node version - node -v
+Create a react project in folder - npx create-react-app project01
+Start a react project - rpm start
+
+Basic reason for use react - Components can be created 
+
+rfc -> component basic structure 
+
+Dynamic components properties widget krnnth plwn (props)
+
+{ alert ("Hello")} -> alert box
+// {[10,20,30]} // -> array
